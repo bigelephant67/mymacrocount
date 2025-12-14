@@ -1,0 +1,7 @@
+{
+  "name": "MacroCount",
+  "description": "A comprehensive macro tracking application allowing users to calculate their TDEE, log meals, and track daily nutritional goals with a high-fidelity dark mode UI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
